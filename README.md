@@ -7,4 +7,4 @@ Project consists of a simple active directory.
 <p align="center" style="font-size:7em; "> network layout: </p>
 <br/>
  
-![activeDirectory_schema](https://github.com/TenteNsenga1/ActiveDirectoryLab/assets/75053398/550c7577-ccf8-4b88-b75c-a29c5306eca0)
+![Active_Directory](https://github.com/TenteNsenga1/ActiveDirectoryLab/assets/75053398/f76c9823-548b-43f8-81be-c6a7609671c4)
