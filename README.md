@@ -6,4 +6,4 @@ Project consists of a simple active directory.
 
 <p align="center">
  network layout: <br/>
-<img src=""/>
+<img src="![activeDirectory_schema](https://github.com/TenteNsenga1/ActiveDirectoryLab/assets/75053398/395348f5-3f81-43b5-87a3-cd84c735e954)"/>
