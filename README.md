@@ -26,6 +26,13 @@ This project demonstrates the creation and configuration of a fully functional A
 - **Network**: NAT with internal communication between machines.
 
 
+![image](https://github.com/user-attachments/assets/b8d8c1b3-91a6-4253-aa29-f96843077558)
+
+allows machine to communicate on the internet 
+![image](https://github.com/user-attachments/assets/965b0c93-1e55-474e-8cc3-9694fbdb4a76)
+
+![image](https://github.com/user-attachments/assets/b22e0b67-226e-4899-ba85-932ed91b9008)
+
 
 
 
