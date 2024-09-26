@@ -25,7 +25,7 @@ This project demonstrates the creation and configuration of a fully functional A
 - **Attacker Machine**: Kali Linux
 - **Network**: NAT with internal communication between machines.
 
-
+- ** domain setup 
 ![image](https://github.com/user-attachments/assets/b8d8c1b3-91a6-4253-aa29-f96843077558)
 
 allows machine to communicate on the internet 
@@ -33,6 +33,11 @@ allows machine to communicate on the internet
 
 ![image](https://github.com/user-attachments/assets/b22e0b67-226e-4899-ba85-932ed91b9008)
 
+![image](https://github.com/user-attachments/assets/9074198d-bc62-4059-af84-6fa8821ab27e)
+
+![image](https://github.com/user-attachments/assets/194548d9-5cba-4aef-a035-abb5c4f262bc)
+
+![image](https://github.com/user-attachments/assets/11fe19a6-b18e-41a4-880d-c836c6744863)
 
 
 
