@@ -5,15 +5,6 @@ This project demonstrates the creation and configuration of a fully functional A
 <br />
 <br />
 
-
-## Lab Setup
-- **Domain Controller**: Windows Server 2019
-- **User Machines**: 2 x Windows 10 Enterprise
-- **Attacker Machine**: Kali Linux
-- **Network**: NAT with internal communication between machines.
-  ![image](https://github.com/user-attachments/assets/46ef928e-e306-4159-9e4f-02c3885fd5e9)
-
-
 ## Objectives
 1. Install and configure a Windows Server 2019 Domain Controller.
 2. Set up users and groups in Active Directory.
@@ -27,5 +18,15 @@ This project demonstrates the creation and configuration of a fully functional A
 - Windows Server Administration
 - Security Testing (Kerberoasting)
 - System Networking (NAT configuration)
- 
 
+## Lab Setup
+- **Domain Controller**: Windows Server 2019
+- **User Machines**: 2 x Windows 10 Enterprise
+- **Attacker Machine**: Kali Linux
+- **Network**: NAT with internal communication between machines.
+
+
+
+
+
+ 
