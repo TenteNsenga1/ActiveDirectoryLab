@@ -23,6 +23,7 @@ This project demonstrates the creation and configuration of a fully functional A
 - **User Machines**: 2 x Windows 10 Enterprise
 - **Network**: NAT with internal communication between machines.
 
+Each VM is assigned 2GB of RAM, totaling 8GB of RAM for the entire lab. The network is set to NAT for all machines to communicate internally and share the host's internet connection.
 
 
 
