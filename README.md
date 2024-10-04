@@ -175,11 +175,12 @@ Here are some important screenshots from the lab setup:
 
 5. **Active Directory Users**:  
 
+![image](https://github.com/user-attachments/assets/89e49846-0fe3-4c22-be78-1af10def59ae)
+
 6. **SMB Share Setup**:
 
 ![image](https://github.com/user-attachments/assets/7b9e0bda-d42f-433e-85a7-4f1a5905b9aa)
 ![image](https://github.com/user-attachments/assets/139390c7-f3b8-4593-9666-6a1173659be4)
-
 ![image](https://github.com/user-attachments/assets/02d59adc-59e2-48bc-8b00-2c5bae1d2f66)
 
 
