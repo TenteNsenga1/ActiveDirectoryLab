@@ -29,7 +29,11 @@ Each VM is assigned 2GB of RAM, totaling 8GB of RAM for the entire lab. The netw
 
 ![image](https://github.com/user-attachments/assets/b7faa6bb-7150-409d-9248-87006e5122df)
 
+##SCREENSHOTS 
 
+<br />
+<br />
+<br />
 ## Domain controller installation
 ![image](https://github.com/user-attachments/assets/b8d8c1b3-91a6-4253-aa29-f96843077558)
 
@@ -132,8 +136,28 @@ allows machine to communicate on the internet
 
 ![image](https://github.com/user-attachments/assets/8cd674e3-8a66-4f49-a872-528f19eecb23)
 
+<br />
+<br />
+
+**File Sharing with SMB
+![image](https://github.com/user-attachments/assets/adbe71ee-b976-4e09-91a5-8a3dac1bd8f3)
+![image](https://github.com/user-attachments/assets/a5478e71-f0d0-4013-9946-4887d52b613e)
+![image](https://github.com/user-attachments/assets/50bf206b-b868-4a5f-a896-82ac912d361f)
+![image](https://github.com/user-attachments/assets/28822667-f3a1-4465-b44f-035bedb834ec)
+![image](https://github.com/user-attachments/assets/370e63dd-407a-4097-a0dd-bbd37e7c5765)
+![image](https://github.com/user-attachments/assets/b16c6874-92b2-4678-82a8-cc8226070233)
+![image](https://github.com/user-attachments/assets/ae54be1c-2cb5-43fd-84de-baac22a5dc74)
+![image](https://github.com/user-attachments/assets/4d075ea7-e178-477b-954a-d966dcce7ca3)
 
 
+
+
+
+
+
+
+
+step7:
 
 
 
