@@ -40,7 +40,7 @@ allows machine to communicate on the internet
 ![image](https://github.com/user-attachments/assets/194548d9-5cba-4aef-a035-abb5c4f262bc)
 
 
-<h3>setup static ip address</h3>
+<h3>setup static ip address on server</h3>
 
 ![image](https://github.com/user-attachments/assets/0b9eb1f9-e6c9-4b29-b7df-087ff1f7ee95)
 ![image](https://github.com/user-attachments/assets/a8aff85e-0137-4fea-8154-bcd1a53159da)
@@ -67,6 +67,8 @@ allows machine to communicate on the internet
 ![image](https://github.com/user-attachments/assets/47057efd-e797-4d68-8bd1-5948280bbb9f)
 
 ![image](https://github.com/user-attachments/assets/8482512f-389f-4db8-a099-89c92cce8661)
+<br />
+<br />
 
 <h3>server is up and it is signed in as ADHACKING</h3>
 
