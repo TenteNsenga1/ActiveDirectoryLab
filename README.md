@@ -157,21 +157,29 @@ allows machine to communicate on the internet
 <br />
 <br />
 
-##SCREENSHOTS  
+## SCREENSHOTS  
 <h2>Description</h2>
 Here are some important screenshots from the lab setup:
 
-## 1. **VMWare Setup**:  
+1. **VMWare Setup**:  
 ![image](https://github.com/user-attachments/assets/b7faa6bb-7150-409d-9248-87006e5122df)
 
-1. **VMWare Setup**:  
+2. **VMWare Setup**:  
 ![image](https://github.com/user-attachments/assets/194548d9-5cba-4aef-a035-abb5c4f262bc)
 
+3. **Domain Controller Promotion**:  
 ![image](https://github.com/user-attachments/assets/19b580b4-ac0e-4d9f-a282-250fe9c863b0)
 ![image](https://github.com/user-attachments/assets/65aa9476-9d57-487f-9892-1a58e522768a)
 
+4. **Windows 10 Installation**:  
 
+5. **Active Directory Users**:  
 
+6. **SMB Share Setup**:
+
+![image](https://github.com/user-attachments/assets/02d59adc-59e2-48bc-8b00-2c5bae1d2f66)
+![image](https://github.com/user-attachments/assets/e54aad95-22c5-4024-99ec-4777a17f4158)
+![image](https://github.com/user-attachments/assets/01ce03bb-ff9c-4ef7-81ac-15fc5a0e4c52)
 
 
 
