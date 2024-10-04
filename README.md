@@ -88,6 +88,14 @@ allows machine to communicate on the internet
 
 ![image](https://github.com/user-attachments/assets/815ca589-661f-4c7e-bd8f-2023b44ae2bc)
 ![image](https://github.com/user-attachments/assets/1dc3f160-03e9-422f-806a-abd307d8de77)
+![image](https://github.com/user-attachments/assets/ec3885e3-b90a-448d-9a8c-c8ac27c63596)
+![image](https://github.com/user-attachments/assets/4386844e-76fd-49b2-a837-6f8a433ef5e1)
+
+<h3> user creation </h3>
+
+![image](https://github.com/user-attachments/assets/332899e1-b687-4358-beda-cd874af3a652)
+
+
 
 
 
