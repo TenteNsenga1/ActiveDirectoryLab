@@ -103,6 +103,9 @@ allows machine to communicate on the internet
 ![image](https://github.com/user-attachments/assets/ec18d779-82c4-428c-a9bb-1ed5151f853c)
 ![image](https://github.com/user-attachments/assets/65e0b8cb-7acb-4a59-b24d-08351a135148)
 
+<h3> got an error </h3>
+
+![image](https://github.com/user-attachments/assets/4b92203c-3ed6-4642-8ed5-d6895fc0832f)
 
 
 
