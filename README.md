@@ -121,6 +121,11 @@ allows machine to communicate on the internet
 
 ![image](https://github.com/user-attachments/assets/ef369b96-f2df-493a-a8c5-fbdf6b447011)
 
+![image](https://github.com/user-attachments/assets/1fc5668b-7c9a-4ca6-8636-b1a124742d48)
+
+saul computer joined the domain 
+![image](https://github.com/user-attachments/assets/b14f2f57-2b32-4dad-b5c0-9e54ae2c4ae0)
+
 
 
 
