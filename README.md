@@ -68,7 +68,7 @@ allows machine to communicate on the internet
 
 ![image](https://github.com/user-attachments/assets/8482512f-389f-4db8-a099-89c92cce8661)
 
-<h3>server is up and it is signed in as ADHACKING</h3>h3>
+<h3>server is up and it is signed in as ADHACKING</h3>
 
 ![image](https://github.com/user-attachments/assets/94ece524-2794-4407-b961-f49924fed3b6)
 ![image](https://github.com/user-attachments/assets/22dcf879-ae50-4d21-8638-0e6e1ef0133e)
@@ -78,7 +78,13 @@ allows machine to communicate on the internet
 
 
 ## Active directory configuration 
-<h2>Description</h2>
+<h2> 1. Opened **Active Directory Users and Computers** on the Domain Controller.
+2. Created an organizational unit (OU) named `Groups`.
+3. Moved default users (except Administrator and Guest) to the `Groups` OU.
+4. Created the following user accounts:
+   - **saul** (password: `Password123`)
+   - **walter** (password: `Password123`)
+5. Assigned users to appropriate OUs and applied Group Policies to enforce password complexity.</h2>
 
 
 
