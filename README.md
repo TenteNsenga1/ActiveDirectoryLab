@@ -97,7 +97,7 @@ allows machine to communicate on the internet
 ![image](https://github.com/user-attachments/assets/cc60c922-aee0-48eb-9d13-5d579862ce9e)
 ![image](https://github.com/user-attachments/assets/8d3ba7ec-494b-4e48-bb88-7a11316a7d31)
 
-<h3> Becoming a member of the domain </h3>
+<h3> Becoming a member of the domain/ same will be done with machine 2</h3>
 
 ![image](https://github.com/user-attachments/assets/45f839aa-cc4f-408c-9c09-369cce9e0dd4)
 ![image](https://github.com/user-attachments/assets/ec18d779-82c4-428c-a9bb-1ed5151f853c)
