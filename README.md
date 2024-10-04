@@ -25,7 +25,9 @@ This project demonstrates the creation and configuration of a fully functional A
 
 Each VM is assigned 2GB of RAM, totaling 8GB of RAM for the entire lab. The network is set to NAT for all machines to communicate internally and share the host's internet connection.
 
+- default switch enable for all 
 ![image](https://github.com/user-attachments/assets/b7faa6bb-7150-409d-9248-87006e5122df)
+
 
 ## Domain controller(myDomaincontroller) 
 
