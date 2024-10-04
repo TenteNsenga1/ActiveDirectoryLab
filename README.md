@@ -128,7 +128,8 @@ allows machine to communicate on the internet
 
 <h3> logging in into the domain controler as Saul goodman </h3>
 
-![image](https://github.com/user-attachments/assets/05904139-9233-48ef-bc86-1fac3bcf9bc6)
+![image](https://github.com/user-attachments/assets/8cd674e3-8a66-4f49-a872-528f19eecb23)
+
 
 
 
