@@ -71,7 +71,11 @@ allows machine to communicate on the internet
 ![image](https://github.com/user-attachments/assets/22dcf879-ae50-4d21-8638-0e6e1ef0133e)
 
 
+## user machine installation
 
+
+## Active directory configuration 
+<h2>Description</h2>
 
 
 
