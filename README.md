@@ -68,6 +68,7 @@ allows machine to communicate on the internet
  - server is up and it is signed in as ADHACKING
  ![image](https://github.com/user-attachments/assets/94ece524-2794-4407-b961-f49924fed3b6)
 
+![image](https://github.com/user-attachments/assets/22dcf879-ae50-4d21-8638-0e6e1ef0133e)
 
 
 
