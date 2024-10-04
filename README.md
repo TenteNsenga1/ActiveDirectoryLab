@@ -86,6 +86,9 @@ allows machine to communicate on the internet
    - **walter** (password: `Password123`)
 - 5. Assigned users to appropriate OUs and applied Group Policies to enforce password complexity.
 
+![image](https://github.com/user-attachments/assets/815ca589-661f-4c7e-bd8f-2023b44ae2bc)
+![image](https://github.com/user-attachments/assets/1dc3f160-03e9-422f-806a-abd307d8de77)
+
 
 
 
