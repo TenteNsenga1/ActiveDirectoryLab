@@ -119,6 +119,7 @@ allows machine to communicate on the internet
 
 ![image](https://github.com/user-attachments/assets/89a96ac9-613e-40f9-a7dd-2c62fa6f729a)
 
+![image](https://github.com/user-attachments/assets/ef369b96-f2df-493a-a8c5-fbdf6b447011)
 
 
 
