@@ -173,10 +173,7 @@ Here are some important screenshots from the lab setup:
 4. **Windows 10 Installation**:
    has already been created before thus seeing user-machine the Hyper-V 1 & 2 and being able to login into machine 1 or 2 
  ![image](https://github.com/user-attachments/assets/f68df873-4dd2-46ac-afaa-478940ea4bba)
-![image](https://github.com/user-attachments/assets/0451f5c9-0fe0-4846-b129-158bea9e1446)
-
-  
-![image](https://github.com/user-attachments/assets/7f0015ee-2417-4628-afd5-b79e54350710)
+ ![image](https://github.com/user-attachments/assets/0451f5c9-0fe0-4846-b129-158bea9e1446)
 
 6. **Active Directory Users**:  
 
