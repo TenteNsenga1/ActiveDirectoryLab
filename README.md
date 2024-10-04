@@ -158,7 +158,6 @@ allows machine to communicate on the internet
 <br />
 
 ## SCREENSHOTS  
-<h2>Description</h2>
 Here are some important screenshots from the lab setup:
 
 1. **VMWare Setup**:  
@@ -171,9 +170,13 @@ Here are some important screenshots from the lab setup:
 ![image](https://github.com/user-attachments/assets/19b580b4-ac0e-4d9f-a282-250fe9c863b0)
 ![image](https://github.com/user-attachments/assets/65aa9476-9d57-487f-9892-1a58e522768a)
 
-4. **Windows 10 Installation**:  
+4. **Windows 10 Installation**:
+   has already been created before thus seeing user-machine 1 & 2 and 
+6. ![image](https://github.com/user-attachments/assets/f68df873-4dd2-46ac-afaa-478940ea4bba)
+  
+![image](https://github.com/user-attachments/assets/7f0015ee-2417-4628-afd5-b79e54350710)
 
-5. **Active Directory Users**:  
+6. **Active Directory Users**:  
 
 ![image](https://github.com/user-attachments/assets/89e49846-0fe3-4c22-be78-1af10def59ae)
 
