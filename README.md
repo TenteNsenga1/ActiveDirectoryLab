@@ -106,6 +106,14 @@ allows machine to communicate on the internet
 <h3> got an error </h3>
 
 ![image](https://github.com/user-attachments/assets/4b92203c-3ed6-4642-8ed5-d6895fc0832f)
+<br />
+<h3> will verify ip setting on machine </h3>
+
+![image](https://github.com/user-attachments/assets/f317c3df-3c8d-4707-9a12-1f7f3be32d92)
+
+<h3> will put the machine on the same network  </h3>
+
+![image](https://github.com/user-attachments/assets/972d8b30-2dfd-4a46-9db4-cbd67d31ffec)
 
 
 
