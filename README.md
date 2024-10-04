@@ -43,7 +43,8 @@ allows machine to communicate on the internet
 ![image](https://github.com/user-attachments/assets/0b9eb1f9-e6c9-4b29-b7df-087ff1f7ee95)
 ![image](https://github.com/user-attachments/assets/a8aff85e-0137-4fea-8154-bcd1a53159da)
 
-
+<br />
+<br />
 - Promoting the Server to Domain Controller
 ![image](https://github.com/user-attachments/assets/36f4920a-9e9c-4681-b6f4-6e5c19fc3120)
 
