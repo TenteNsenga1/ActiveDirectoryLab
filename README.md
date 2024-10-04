@@ -25,11 +25,12 @@ This project demonstrates the creation and configuration of a fully functional A
 
 Each VM is assigned 2GB of RAM, totaling 8GB of RAM for the entire lab. The network is set to NAT for all machines to communicate internally and share the host's internet connection.
 
+<h1>**See a recap at the end**</h1>
 - default switch enable for all and they all connected to it.
 
 ![image](https://github.com/user-attachments/assets/b7faa6bb-7150-409d-9248-87006e5122df)
 
-##SCREENSHOTS 
+##SCREENSHOTS  
 
 <br />
 <br />
@@ -148,19 +149,12 @@ allows machine to communicate on the internet
 ![image](https://github.com/user-attachments/assets/b16c6874-92b2-4678-82a8-cc8226070233)
 ![image](https://github.com/user-attachments/assets/ae54be1c-2cb5-43fd-84de-baac22a5dc74)
 ![image](https://github.com/user-attachments/assets/4d075ea7-e178-477b-954a-d966dcce7ca3)
+![image](https://github.com/user-attachments/assets/a52cbb14-1c38-403f-95e3-a0721afd3c18)
 
 
-
-
-
-
-
-
-
-step7:
-
-
-
+##SCREENSHOTS  
+<h2>Description</h2>
+Here are some important screenshots from the lab setup:
 
 
 
