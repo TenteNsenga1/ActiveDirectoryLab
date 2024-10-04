@@ -123,8 +123,13 @@ allows machine to communicate on the internet
 
 ![image](https://github.com/user-attachments/assets/1fc5668b-7c9a-4ca6-8636-b1a124742d48)
 
-saul computer joined the domain 
+<h3>saul computer joined the domain</h3>
 ![image](https://github.com/user-attachments/assets/b14f2f57-2b32-4dad-b5c0-9e54ae2c4ae0)
+
+<h3> logging in into the domain controler as Saul goodman </h3>
+
+![image](https://github.com/user-attachments/assets/05904139-9233-48ef-bc86-1fac3bcf9bc6)
+
 
 
 
