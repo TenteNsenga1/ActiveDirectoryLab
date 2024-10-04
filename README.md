@@ -117,7 +117,7 @@ allows machine to communicate on the internet
 
 <h3> will try again </h3>
 
-![image](https://github.com/user-attachments/assets/6161e44e-5092-48fa-aa31-69846f87e6d9)
+![image](https://github.com/user-attachments/assets/89a96ac9-613e-40f9-a7dd-2c62fa6f729a)
 
 
 
