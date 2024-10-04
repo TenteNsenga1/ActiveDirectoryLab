@@ -130,10 +130,6 @@ allows machine to communicate on the internet
 
 ![image](https://github.com/user-attachments/assets/8cd674e3-8a66-4f49-a872-528f19eecb23)
 
-![image](https://github.com/user-attachments/assets/819609e5-9bda-4da3-b685-2af87b5c6b8f)
-
-
-
 
 
 
