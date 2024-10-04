@@ -38,7 +38,8 @@ allows machine to communicate on the internet
 
 ![image](https://github.com/user-attachments/assets/194548d9-5cba-4aef-a035-abb5c4f262bc)
 
-- setup static ip address
+
+<h2>setup static ip address</h2>
 ![image](https://github.com/user-attachments/assets/0b9eb1f9-e6c9-4b29-b7df-087ff1f7ee95)
 ![image](https://github.com/user-attachments/assets/a8aff85e-0137-4fea-8154-bcd1a53159da)
 
