@@ -39,6 +39,7 @@ allows machine to communicate on the internet
 
 ![image](https://github.com/user-attachments/assets/194548d9-5cba-4aef-a035-abb5c4f262bc)
 
+- Promoting the Server to Domain Controller
 
 
 
