@@ -26,6 +26,7 @@ This project demonstrates the creation and configuration of a fully functional A
 Each VM is assigned 2GB of RAM, totaling 8GB of RAM for the entire lab. The network is set to NAT for all machines to communicate internally and share the host's internet connection.
 
 - default switch enable for all and they all connected to it.
+
 ![image](https://github.com/user-attachments/assets/b7faa6bb-7150-409d-9248-87006e5122df)
 
 
@@ -39,7 +40,8 @@ allows machine to communicate on the internet
 ![image](https://github.com/user-attachments/assets/194548d9-5cba-4aef-a035-abb5c4f262bc)
 
 
-<h2>setup static ip address</h2>
+<h3>setup static ip address</h3>
+
 ![image](https://github.com/user-attachments/assets/0b9eb1f9-e6c9-4b29-b7df-087ff1f7ee95)
 ![image](https://github.com/user-attachments/assets/a8aff85e-0137-4fea-8154-bcd1a53159da)
 
@@ -66,9 +68,9 @@ allows machine to communicate on the internet
 
 ![image](https://github.com/user-attachments/assets/8482512f-389f-4db8-a099-89c92cce8661)
 
- - server is up and it is signed in as ADHACKING
- ![image](https://github.com/user-attachments/assets/94ece524-2794-4407-b961-f49924fed3b6)
+<h3>server is up and it is signed in as ADHACKING</h3>h3>
 
+![image](https://github.com/user-attachments/assets/94ece524-2794-4407-b961-f49924fed3b6)
 ![image](https://github.com/user-attachments/assets/22dcf879-ae50-4d21-8638-0e6e1ef0133e)
 
 
