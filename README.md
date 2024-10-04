@@ -115,6 +115,11 @@ allows machine to communicate on the internet
 
 ![image](https://github.com/user-attachments/assets/972d8b30-2dfd-4a46-9db4-cbd67d31ffec)
 
+<h3> will try again </h3>
+
+![image](https://github.com/user-attachments/assets/6161e44e-5092-48fa-aa31-69846f87e6d9)
+
+
 
 
 
