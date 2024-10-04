@@ -99,8 +99,10 @@ allows machine to communicate on the internet
 
 <h3> Becoming a member of the domain </h3>
 
-![image](https://github.com/user-attachments/assets/5ef3f7e8-9994-461b-90e6-48523c84b8f2)
+![image](https://github.com/user-attachments/assets/45f839aa-cc4f-408c-9c09-369cce9e0dd4)
 ![image](https://github.com/user-attachments/assets/ec18d779-82c4-428c-a9bb-1ed5151f853c)
+![image](https://github.com/user-attachments/assets/65e0b8cb-7acb-4a59-b24d-08351a135148)
+
 
 
 
