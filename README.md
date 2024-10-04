@@ -126,7 +126,7 @@ allows machine to communicate on the internet
 <h3>saul computer joined the domain</h3>
 ![image](https://github.com/user-attachments/assets/b14f2f57-2b32-4dad-b5c0-9e54ae2c4ae0)
 
-<h3> logging in into the domain controler as Saul goodman </h3>
+<h3> logging  into the domain controler as Saul goodman </h3>
 
 ![image](https://github.com/user-attachments/assets/8cd674e3-8a66-4f49-a872-528f19eecb23)
 
