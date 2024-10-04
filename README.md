@@ -78,13 +78,13 @@ allows machine to communicate on the internet
 
 
 ## Active directory configuration 
-<h2> 1. Opened **Active Directory Users and Computers** on the Domain Controller.
-2. Created an organizational unit (OU) named `Groups`.
-3. Moved default users (except Administrator and Guest) to the `Groups` OU.
-4. Created the following user accounts:
+- 1. Opened **Active Directory Users and Computers** on the Domain Controller.
+- 2. Created an organizational unit (OU) named `Groups`.
+- 3. Moved default users (except Administrator and Guest) to the `Groups` OU.
+- 4. Created the following user accounts:
    - **saul** (password: `Password123`)
    - **walter** (password: `Password123`)
-5. Assigned users to appropriate OUs and applied Group Policies to enforce password complexity.</h2>
+- 5. Assigned users to appropriate OUs and applied Group Policies to enforce password complexity.
 
 
 
